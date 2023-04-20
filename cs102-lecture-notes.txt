@@ -1,0 +1,7 @@
+Five Git commands that I learned so far :
+1. $git clone <ssh link>
+2. $git add <filename><extension>
+3. $git commit -m "message to commit"
+4. $git commit . -m "message to commit"
+5. $git --version
+and many more...
