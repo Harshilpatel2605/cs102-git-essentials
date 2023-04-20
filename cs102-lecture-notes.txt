@@ -1,3 +1,4 @@
+
 Five Git commands that I learned so far :
 1. $git clone <ssh link>
 2. $git add <filename><extension>
@@ -5,3 +6,4 @@ Five Git commands that I learned so far :
 4. $git commit . -m "message to commit"
 5. $git --version
 and many more...
+appending a summary of 100 words to this file
